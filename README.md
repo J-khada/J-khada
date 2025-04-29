@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @J-khada
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning c / C++
-- 📫 How to reach me 
 
 <!---
 J-khada/J-khada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
