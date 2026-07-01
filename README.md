@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @J-khada
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning c / C++
+- 👋 Hi, I’m Anıl !
+- 👀 I’m interested in Financial Technologies and Quantiative Finance
+- 🌱 I’m currently developing my own Qunatiative Financial Toolkit
 
 <!---
 J-khada/J-khada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
